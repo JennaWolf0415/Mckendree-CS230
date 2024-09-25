@@ -1,0 +1,69 @@
+1. What are the first six digits of pi?
+3.14159
+3.14278
+3.15289
+3.14591
+1
+
+2. What is the capital of Chile?
+Madrid
+Caracas
+Santiago
+Bogota
+3
+
+3. How tall is the worlds largest building (in feet)?
+3,043
+2,717
+2,684
+2,986
+2
+
+4. Who was the 5th president of the United States?
+Martin Van Buren
+James Monroe
+George Washington
+John Quincy Adams
+2
+
+5. Which college has the most students enrolled in the United States?
+Texas A&M University
+University of Central Flordia
+Ohio State University
+Arizona State University
+1
+
+6. Who directed the movie "Jurassic Park"? 
+Steven Spielberg 
+George Lucas 
+James Cameron 
+Christopher Nolan
+1
+
+7. Which country is home to the Great Barrier Reef? 
+South Africa
+Brazil 
+Canada 
+Australia 
+4
+
+8. What is the capital city of Canada? 
+Ottawa 
+Toronto 
+Vancouver 
+Montreal
+1
+
+9. What is the name of the largest moon of Saturn? 
+Io 
+Europa 
+Titan 
+Triton
+3
+
+10. Who was the first person to walk on the moon? 
+Neil Armstrong 
+Buzz Aldrin 
+Michael Collins 
+Yuri Gagarin
+1
