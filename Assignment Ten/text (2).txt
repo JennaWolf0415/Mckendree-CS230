@@ -1,0 +1,10 @@
+Smith, Carl, 8345 Harris Drive, St.Louis, Missouri, 62234, (675)768-6574, 875437, 1
+Young, Mark, 4326 Gumball Street, Boston, Massachusetts, 87435, (768)768-6633, 738293, 0
+Kerber, Xander, 7683 Marquette Drive, St.Louis, Missouri, 68832, (822)764-7684, 984832, 1
+Malone, Post, 8693 Hollywood Bolavard, Los Angeles, California, 98843, (122)334-8821, 842432, 1
+Kamado, Tanjiro, 9833 Demon Slayer Place, Erie, Pennslyvania, 54321, (768)555-4435, 675433, 0
+Louis, Emma, 8549 Stolen Street, Las Vegas, Nevada, 865931, (999)777-5555, 454332, 1
+Turner, Timmy, 1213 Fairy Godparents Drive, Dallas, Texas, 97650, (653)324-3365, 743820, 1
+Ketchum, Ash, 3421 Pokemon Place, Houstan, Texas, 23434, (114)382-4797, 855543, 1
+Schmidt, Luke, 7632 White Pine Drive, St.Louis, Missouri, 63129, (343)454-5656, 943232, 0
+Sandler, Adam, 2122 Hangover Place, San Deigo, California, 97544, (564)778-1298, 213321, 0
