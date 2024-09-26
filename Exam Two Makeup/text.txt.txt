@@ -1,0 +1,15 @@
+212341234, Chris Edward, 42389.00, M, 1.2
+516336512, Alan Smith, 47182.00, M, 1.4
+618029126, Emily Collins, 49711.00, F, 1.32
+220441298, Cole Soto, 44389.00, M, 1.23
+713903330, Ryan William, 62300.00, M, 2.11
+503411028, Adam Matthew, 71009.00, M, 2.9
+901127573, Zachary Jones, 61003.00, M, 1.9
+807112045, Kyle Diaz, 49500.00, M, 1.21
+101908214, Lwis Thomson, 55199.00, F, 1.8
+910812213, Patricia Brennan, 58400.00, M, 1.9
+719182399, Travis Morrison, 57800.00, M, 1.7
+422751110, Amanda Hall, 59200.00, F, 2.1
+313780013, Richard Wallace, 51970.00, M, 1.9
+419471230, Alice Price, 49100.00, F, 1.23
+022916239, Susan Stanton, 57500.00, M, 1.55

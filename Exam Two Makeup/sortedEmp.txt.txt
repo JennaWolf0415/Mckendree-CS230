@@ -1,0 +1,15 @@
+503411028,  Adam Matthew, 71009, M, 2.9
+713903330,  Ryan William, 62300, M, 2.11
+901127573,  Zachary Jones, 61003, M, 1.9
+422751110,  Amanda Hall, 59200, F, 2.1
+910812213,  Patricia Brennan, 58400, M, 1.9
+719182399,  Travis Morrison, 57800, M, 1.7
+022916239,  Susan Stanton, 57500, M, 1.55
+101908214,  Lwis Thomson, 55199, F, 1.8
+313780013,  Richard Wallace, 51970, M, 1.9
+618029126,  Emily Collins, 49711, F, 1.32
+807112045,  Kyle Diaz, 49500, M, 1.21
+419471230,  Alice Price, 49100, F, 1.23
+516336512,  Alan Smith, 47182, M, 1.4
+220441298,  Cole Soto, 44389, M, 1.23
+212341234,  Chris Edward, 42389, M, 1.2
